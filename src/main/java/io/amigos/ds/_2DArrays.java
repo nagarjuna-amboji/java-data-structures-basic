@@ -1,4 +1,4 @@
-package io.amigos;
+package io.amigos.ds;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
